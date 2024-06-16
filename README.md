@@ -53,7 +53,7 @@ Elbow graphs are similar to each other, which aligns well with the fact that PCA
 ![Comparison of Clustering methods](Images/Clusters_comp.png)
 In this case, the PCA method was applied to the original data, and clustering was performed afterward. This allowed us to identify two unique cryptocurrencies that stood out noticeably on the graph to the right. In this case, the graphs are plotted in the coordinates of the original data and the PCA coordinates. The goal is to better visualize the differences when clustering. We are looking at our data from a different perspective.
 
-![Comparison of Clustering methods in the original coordinates](Images/Clusters_comp2.png)
+![Comparison of Clustering methods in the original coordinates](Images/Clusters_comp_origin.png)
 
 In this case, we see that applying the PCA method does not affect the clustering. In this approach, we build clusters in the original coordinates. Since the graphs match, we see that applying PCA does not impact the clustering.
 
