@@ -66,3 +66,22 @@ Suggested ways to enhance the model's accuracy and applicability in different ma
 By following these stages, the clustering analysis provided a structured approach to understanding the cryptocurrency market, offering valuable insights into the behavior and characteristics of different cryptocurrencies.
 
 
+## Requirements
+
+- Python 3.x
+- Libraries: Pandas, Hvplot, sklearn (KMeans, PCA, StandardScaler)
+
+## Installation
+
+1. Clone the repository to your local machine:
+
+   ```
+   [git clone https://github.com/NataliiaShevchenko620/CryptoClustering.git](https://github.com/NataliiaShevchenko620/CryptoClustering.git)
+   ```
+
+2. Install the required Python libraries
+3. Run the notebook
+
+## License
+
+This project is licensed under the MIT License.
